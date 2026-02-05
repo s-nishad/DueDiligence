@@ -1,0 +1,4 @@
+PROJECTS = {}
+DOCUMENTS = {}
+ANSWERS = {}
+REQUESTS = {}
